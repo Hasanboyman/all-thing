@@ -8,17 +8,11 @@
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/download (2).jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/API_Pharm" beforeDir="false" afterPath="$PROJECT_DIR$/API_Pharm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eldor" beforeDir="false" afterPath="$PROJECT_DIR$/eldor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eldor/src/abilities.js" beforeDir="false" afterPath="$PROJECT_DIR$/eldor/src/abilities.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eldor/src/components/CreateKategoriya.vue" beforeDir="false" afterPath="$PROJECT_DIR$/eldor/src/components/CreateKategoriya.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eldor/src/components/MijozlarComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/eldor/src/components/MijozlarComponent.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eldor/src/components/RoliComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/eldor/src/components/RoliComponent.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eldor/src/components/ShifokorComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/eldor/src/components/ShifokorComponent.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eldor/src/components/UpdateKategoriya.vue" beforeDir="false" afterPath="$PROJECT_DIR$/eldor/src/components/UpdateKategoriya.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eldor/src/components/XodimlarComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/eldor/src/components/XodimlarComponent.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eldor/src/components/services/apiService.js" beforeDir="false" afterPath="$PROJECT_DIR$/eldor/src/components/services/apiService.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eldor/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/eldor/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qodana.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +42,7 @@
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;feature-1&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/ELDORPHARM&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -87,6 +81,17 @@
       <workItem from="1720070200501" duration="5774000" />
       <workItem from="1720084409677" duration="1823000" />
       <workItem from="1720109587703" duration="1554000" />
+      <workItem from="1720367691077" duration="2167000" />
+      <workItem from="1720412828788" duration="1322000" />
+      <workItem from="1720416192261" duration="26000" />
+      <workItem from="1720416274578" duration="46000" />
+      <workItem from="1720432194952" duration="13663000" />
+      <workItem from="1720519224638" duration="5742000" />
+      <workItem from="1721111740895" duration="57000" />
+      <workItem from="1721209410992" duration="146000" />
+      <workItem from="1722437349277" duration="105000" />
+      <workItem from="1722442814830" duration="218000" />
+      <workItem from="1722445034737" duration="244000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -151,8 +156,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/eldor/src/components/services/apiService.js</url>
-          <line>33</line>
-          <properties lambdaOrdinal="-1" />
+          <line>27</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
