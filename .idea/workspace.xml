@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f128347-983b-4770-9aff-bb9a2901eead" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Pharm" beforeDir="false" afterPath="$PROJECT_DIR$/API_Pharm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eldor" beforeDir="false" afterPath="$PROJECT_DIR$/eldor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eldor/src/abilities.js" beforeDir="false" afterPath="$PROJECT_DIR$/eldor/src/abilities.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eldor/src/components/CreateKategoriya.vue" beforeDir="false" afterPath="$PROJECT_DIR$/eldor/src/components/CreateKategoriya.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eldor/src/components/MijozlarComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/eldor/src/components/MijozlarComponent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eldor/src/components/RoliComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/eldor/src/components/RoliComponent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eldor/src/components/ShifokorComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/eldor/src/components/ShifokorComponent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eldor/src/components/UpdateKategoriya.vue" beforeDir="false" afterPath="$PROJECT_DIR$/eldor/src/components/UpdateKategoriya.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eldor/src/components/XodimlarComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/eldor/src/components/XodimlarComponent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eldor/src/components/services/apiService.js" beforeDir="false" afterPath="$PROJECT_DIR$/eldor/src/components/services/apiService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eldor/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/eldor/src/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/eldor" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2ihIIK5xFYKcghcBE0y0dYM4dxj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature-1&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ELDORPHARM&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\WebStorm 2024.1.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.17011.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f128347-983b-4770-9aff-bb9a2901eead" name="Changes" comment="" />
+      <created>1719936300491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719936300491</updated>
+      <workItem from="1719936301514" duration="398000" />
+      <workItem from="1719936714767" duration="248000" />
+      <workItem from="1719937616460" duration="1311000" />
+      <workItem from="1719969987440" duration="851000" />
+      <workItem from="1719971117592" duration="106000" />
+      <workItem from="1719998939193" duration="5752000" />
+      <workItem from="1720010177062" duration="311000" />
+      <workItem from="1720011531396" duration="2037000" />
+      <workItem from="1720070200501" duration="5774000" />
+      <workItem from="1720084409677" duration="1823000" />
+      <workItem from="1720109587703" duration="1554000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1719938693690</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719938693690</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <option name="closed" value="true" />
+      <created>1720006108549</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720006108549</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit">
+      <option name="closed" value="true" />
+      <created>1720006269889</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720006269890</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/eldor/src/components/services/apiService.js</url>
+          <line>33</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
